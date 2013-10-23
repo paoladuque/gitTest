@@ -57,7 +57,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=gitTest',
 			'emulatePrepare' => true,
 			'username' => 'root',
-			'password' => 'root',
+			'password' => 'userfabdev',
 			'charset' => 'utf8',
 		),
 		'errorHandler'=>array(

@@ -49,7 +49,7 @@
 
 	<div id="footer">
 		Copyright &copy; <?php echo date('Y'); ?> by Fabrica de Software.<br/>
-		All Rights Reserved.<br/>
+		Todos los derechos reserbados<br/>
 		<?php echo Yii::powered(); ?>
 	</div><!-- footer -->
 <!-- Jaaaaaa -->
